@@ -1,0 +1,7 @@
+{
+  "name": "VisionMind - AI Mind Map Reconstructor",
+  "description": "Transform static mind map images into interactive, beautiful, and editable digital mind maps using Gemini AI and D3.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
